@@ -1,0 +1,3 @@
+[submodule "testSub1"]
+	path = testSub1
+	url = https://github.com/Aleishus/testSub1.git
